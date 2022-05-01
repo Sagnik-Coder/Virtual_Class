@@ -1,0 +1,78 @@
+const assignment = {
+    "English":[
+        {assin: "Assignment of  Literature Chapter 'The Great Stone Face'",
+        marks: 10},
+        {assin: "Assignment of  Grammer Idioms",
+        marks: 10},
+        {assin: "Assignment of  Listening Skill Assesment",
+        marks: 15},
+    ],
+    'Math':[
+        {assin: "Assignment of Practical Geometry",
+        marks: 20 },
+        {assin: "Assignment of Portfolio",
+        marks: 10 },
+        {assin: "Assignment of Lab Activity",
+        marks: 15},
+        {assin: "Assignment of Mensuration",
+        marks: 20},
+        {assin: "Assignment of  Practise Test",
+        marks: 10},
+    ],
+    "Science":[
+        {assin: "Assignment of Biology",
+        marks: 20},
+        {assin: "Assignment of Chemistry",
+        marks: 20},
+        {assin: "Assignment of Physics",
+        marks: 20},
+        {assin: "Assignment of Lab Activity",
+        marks: 10},
+    ],
+    "Bengali":[
+        {assin: "Assignment of Puja Vacation",
+        marks: 10},
+        {assin: "Assignment of বাচ্য পরিবর্তন",
+        marks: 10},
+        {assin: "Assignment of রূপ্য কাকা",
+        marks: 20},
+    ],
+    "S.SC":[
+        {assin: "Assignment of Raja Ravi Verma Essay",
+        marks: 20},
+        {assin: "Assignment of World Delta Map Pointing",
+        marks: 10},
+        {assin: "Assignment of Geography QnA",
+        marks: 15},
+        {assin: "Assignment of Case Study on History Topic",
+        marks: 10},
+    ],
+    "Art":[
+        {assin: "Assignment of Origami",
+        marks: 20},
+        {assin: "Assignment of Art presentation on Veer Gatha",
+        marks: 40},
+        {assin: "Assignment of Complex Form of any Art",
+        marks: 20},
+        {assin: "Assignment of Modeling using any materials",
+        marks: 10},
+        {assin: "Assignment of WaterColor Painting",
+        marks: 15},
+    ],
+    "A.I":[
+        {assin: "Assignment of any Dashboard Design",
+        marks: 10},
+        {assin: "Assignment of making the production of previous design",
+        marks: 20},
+        {assin: "Assignment of basic of neural network",
+        marks: 10},
+        {assin: "Assignment of basic of machine learning",
+        marks: 10},
+        {assin: "Assignment of making a simple machine learning model",
+        marks: 20},
+    ]
+    
+    
+}
+
+export default assignment;
